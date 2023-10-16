@@ -1,9 +1,11 @@
+package Demo01;
+
 
 public class Studen{
     
-            private String code;
-            private String name;
-            private float  gpa;
+            public  String code;
+            public  String name;
+            public  float  gpa;
                        
     
     public void viewgpa(){
